@@ -1,0 +1,5 @@
+.idea
+.gradle
+.pytest_cache
+build
+out
